@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+#titulo-web {
+    color: #860000;
+}
+
+.titulo-secao-web {
+    color: #b00000;
+}
+
+.sub-titulo-web {
+    color: #b32020;
+}
+
+.paragrafo-web {
+    color: #924747;
+}
+
+#titulo-mobile {
+    color: #001374;
+}
+
+.titulo-secao-mobile {
+    color: #001ca5;
+}
+
+.sub-titulo-mobile {
+    color: #273ca7;
+}
+
+.paragrafo-mobile {
+    color: #475192;
+}
+
+#container-desktop h1 {
+    color: #005e00;
+}
+
+#container-desktop h2 {
+    color: #008900;
+}
+
+#container-desktop h3 {
+    color: #00b600;
+}
+
+#container-desktop p {
+    color: #237023;
+}
