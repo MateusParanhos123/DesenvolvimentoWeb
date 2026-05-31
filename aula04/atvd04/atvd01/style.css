@@ -1,0 +1,19 @@
+body {
+        background-color: lightcyan;
+        font-family: sans-serif;    
+    }
+    h1{
+        text-align: center;
+    }
+    h2{
+        text-align: center;
+        color: aquamarine;
+    }
+    h3{
+        text-align: center;
+        color: red;
+    }
+    p{
+        text-align: justify;
+        line-height: 1.5;
+    }

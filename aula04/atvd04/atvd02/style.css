@@ -1,0 +1,30 @@
+header {
+  color: #1a1a1a;
+  text-align: center;
+}
+
+h2 {
+  color: #2c3e50;
+}
+
+h3 {
+  color: #16a085;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.secao-rust p {
+  color: #d35400;
+}
+
+.secao-ia p {
+  color: #2980b9;
+}
+
+footer {
+  color: #7f8c8d;
+  text-align: center;
+}
